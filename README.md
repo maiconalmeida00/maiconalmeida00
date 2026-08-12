@@ -1,34 +1,44 @@
-## Hi there! 👋
+# Hi there! 👋
 
-I'm **Maicon Almeida**, a Software Engineering Student and a Back end Developer dedicated to building innovative solutions and exploring new technologies. 
+I'm **Maicon Almeida**, a Software Engineering Student and Backend Developer dedicated to building innovative solutions and exploring new technologies.
 
 ## About Me
 
-I'm currently a student in Software Engineering, diving deep into the world of programming and software development. My journey in tech is just beginning, filled with excitement and learning opportunities!
+I'm currently studying Software Engineering and continuously improving my skills in programming, software development, backend architecture, and database systems. My goal is to create efficient, scalable, and practical solutions while expanding my knowledge of modern technologies.
 
 ## Skills & Technologies
 
-Here are some of the technologies I'm proficient in:
-
 - `Java`
-- `Spring`
+- `Spring Boot`
+- `React`
+- `TypeScript`
 - `SQL Server`
 - `MySQL`
+- `PostgreSQL`
 - `MongoDB`
 - `Postman`
 - `Git`
 - `GitHub`
+- `Docker`
 
-## Top Projects
+## Main Project
 
-- [QuizMatematico](https://github.com/maiconalmeida00/QuizMatematico): An interactive math quiz in C with integrated calculator and dynamic scoring. - Language: C
-- [JavaWithMySQL](https://github.com/maiconalmeida00/JavaWithMySQL): A project consolidating Java concepts with MySQL database integration, performing CRUD operations. - Language: Java
-- [ProjetoNLWRockeatSeat](https://github.com/maiconalmeida00/ProjetoNLWRockeatSeat): A meta assistant for gamers, integrated with the Gemini API for quick responses about strategies and tips. - Language: JavaScript
-- [SpringBootWithMongoDB](https://github.com/maiconalmeida00/SpringBootWithMongoDB): A RESTful API built with Spring Boot and MongoDB, implementing full CRUD operations and custom queries. - Language: Java
-- [CarrinhoInteligente](https://github.com/maiconalmeida00/CarrinhoInteligente): An integrated shopping cart system that syncs with Firebase Firestore, designed for smart devices. - Language: C++
+- [ManageFlow](https://github.com/maiconalmeida00/ManageFlow): A full-stack platform for managing users, subscription plans, subscriptions, media consumption, and active sessions. It includes JWT authentication, user and administrator dashboards, REST API integration, PostgreSQL persistence, and Flyway migrations.  
+  **Stack:** Java, Spring Boot, React, TypeScript and Docker.
 
+## Other Projects
 
-## Connect with me
+- [QuizMatematico](https://github.com/maiconalmeida00/QuizMatematico): An interactive math quiz developed in C, featuring an integrated calculator and dynamic scoring system.  
+  **Language:** C
+
+- [ProjetoNLWRockeatSeat](https://github.com/maiconalmeida00/ProjetoNLWRockeatSeat): A meta assistant for gamers, integrated with the Gemini API to provide quick answers about strategies and tips.  
+  **Language:** JavaScript
+
+- [CarrinhoInteligente](https://github.com/maiconalmeida00/CarrinhoInteligente): An integrated shopping cart system synchronized with Firebase Firestore and designed for smart devices.  
+  **Language:** C++
+
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-maiconalmeida00-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/maiconalmeida00)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-maiconalmeida00-orange?style=flat-square&logo=github)](https://github.com/maiconalmeida00)
