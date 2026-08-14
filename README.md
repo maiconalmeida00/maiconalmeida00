@@ -31,7 +31,7 @@ I'm currently studying Software Engineering and continuously improving my skills
 - [QuizMatematico](https://github.com/maiconalmeida00/QuizMatematico): An interactive math quiz developed in C, featuring an integrated calculator and dynamic scoring system.  
   **Language:** C
 
-- [ProjetoNLWRockeatSeat](https://github.com/maiconalmeida00/ProjetoNLWRockeatSeat): A meta assistant for gamers, integrated with the Gemini API to provide quick answers about strategies and tips.  
+- [ProjetoNLW](https://github.com/maiconalmeida00/ProjetoNLW): A meta assistant for gamers, integrated with the Gemini API to provide quick answers about strategies and tips.  
   **Language:** JavaScript
 
 - [CarrinhoInteligente](https://github.com/maiconalmeida00/CarrinhoInteligente): An integrated shopping cart system synchronized with Firebase Firestore and designed for smart devices.  
